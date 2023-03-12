@@ -19,12 +19,12 @@ namespace WebApplication2.Models
 
             public Productos(int Cod_Venta, string NombreCliente, string NombreProducto, int Cantidad_Ventas, double Precio, DateTime Fecha_Venta)
             {
-                this.Cod_Venta = Cod_Venta;
-                this.NombreCliente = NombreCliente;
-                this.NombreProducto = NombreProducto;
-                this.Cantidad_Ventas = Cantidad_Ventas;
-                this.Precio = Precio;
-                this.Fecha_Venta = Fecha_Venta;
+                //this.Cod_Venta = Cod_Venta;
+                //this.NombreCliente = NombreCliente;
+                //this.NombreProducto = NombreProducto;
+                //this.Cantidad_Ventas = Cantidad_Ventas;
+                //this.Precio = Precio;
+                //this.Fecha_Venta = Fecha_Venta;
             }
             public static List<Productos> ListarProductos()
             {
