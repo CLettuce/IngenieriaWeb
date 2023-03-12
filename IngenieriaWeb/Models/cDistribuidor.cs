@@ -22,7 +22,15 @@ namespace IngenieriaWeb.Models
             {
                 return new List<Disti>
                 {
-                    new Disti(1, "Hola")
+                    new Disti(1, "Nvidia"),
+                    new Disti(2, "AMD"),
+                    new Disti(3, "ASUS"),
+                    new Disti(4, "MSI"),
+                    new Disti(6, "EVGA"),
+                    new Disti(5, "Gigabyte"),
+                    new Disti(7, "Zotac"),
+                    new Disti(8, "XFX"),
+                    new Disti(9,"PowerColor")
                 };
             }
         }
