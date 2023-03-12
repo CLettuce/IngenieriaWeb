@@ -46,7 +46,15 @@ namespace WebApplication2.Models
                     new Productos(7,"Rodrigo","AMD Radeon RX 6900 XT", 82, 80.00, Convert.ToDateTime("2021-08-10")),
                     new Productos(8,"Luis","AMD Radeon RX 6800 XT", 181, 90.00, Convert.ToDateTime("2023-07-9")),
                     new Productos(9,"Maria","Nvidia GeForce RTX 3090", 102, 100.00, Convert.ToDateTime("2020-09-21")),
-                    new Productos(10,"Juana","Nvidia Quadro RTX 8000", 1, 50.00, Convert.ToDateTime("2021-04-20"))
+                    new Productos(11,"Juana","Nvidia Quadro RTX 8000", 1, 50.00, Convert.ToDateTime("2023-03-23")),
+                    new Productos(12,"Juana","Nvidia GeForce RTX 3080", 120, 50.00, Convert.ToDateTime("2022-05-26")),
+                    new Productos(13,"Juana","Nvidia Quadro RTX 8000", 180, 50.00, Convert.ToDateTime("2021-06-24")),
+                    new Productos(14,"Juana","Nvidia Titan RTX", 156, 50.00, Convert.ToDateTime("2022-07-29")),
+                    new Productos(15,"Juana","Nvidia GeForce RTX 3080", 162, 50.00, Convert.ToDateTime("2023-08-15")),
+                    new Productos(16,"Juana","Nvidia Titan RTX", 52, 50.00, Convert.ToDateTime("2023-09-20")),
+                    new Productos(17,"Juana","Nvidia GeForce RTX 3060 Ti", 1, 50.00, Convert.ToDateTime("2021-03-30")),
+                    new Productos(18,"Juana","Nvidia Quadro RTX 8000", 146, 50.00, Convert.ToDateTime("2022-02-25"))
+
                 };
             }
            
