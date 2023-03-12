@@ -140,6 +140,7 @@
     </Compile>
     <Compile Include="Models\cDistribuidor.cs" />
     <Compile Include="Models\Cmarca.cs" />
+    <Compile Include="Models\cModel.cs" />
     <Compile Include="Models\Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

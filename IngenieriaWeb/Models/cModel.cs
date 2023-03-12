@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 
-namespace WebApplication2.Models
+namespace IngenieriaWeb.Models
 {
-    public abstract class Model
+    public abstract class cModel
     {
         public class Productos
         {
@@ -57,7 +56,7 @@ namespace WebApplication2.Models
 
                 };
             }
-           
+
         }
     }
 }
